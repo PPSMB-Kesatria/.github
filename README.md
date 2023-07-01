@@ -1,2 +1,1 @@
-# .github
-Organization profile repository
+# Organization Profile Repository
